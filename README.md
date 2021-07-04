@@ -30,7 +30,7 @@ Then to execute the app to:
 python tictactoe.py
 ```
 
-## What fileS are in this repo?
+## What files are in this repo?
 
 In this repo you can find the following file:
 
