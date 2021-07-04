@@ -156,7 +156,7 @@ def restart():
 
 
 def jugarCpu(board):
-    model = PPO.load("model5millonesAmbos")
+    model = PPO.load("PPO5millonesFinal")
 
     obs = board.flatten()
 
