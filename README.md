@@ -35,7 +35,7 @@ python tictactoe.py
 In this repo you can find the following file:
 
 -   tictactoe.py: the main file made with Pygame that you need to execute it in order to play the game
--   model.ipynb: the file that creates the IA for the oponent. You can execute this in Google Colab <br>
+-   Tic_Tac_Toe_Gym.ipynb: the file that creates the IA for the oponent. You can execute this in Google Colab if you want <br>
     <a href="https://colab.research.google.com/drive/12ZBuTc2p0faVHnvV_25XENLHUuKDL7Rf?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 -   model5millonesFinal.zip: the file that I import in tictactoe.py file; in this file is where I saved the AI
 
